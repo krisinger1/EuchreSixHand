@@ -1,0 +1,48 @@
+player,card1,card2,card3,card4,card5,card6,card7,card8,spades,hearts, diamonds,clubs,best bid
+Player 1,9 of Spades,9 of Spades,Right Bauer of Hearts,10 of Hearts,Ace of Diamonds,King of Diamonds,9 of Diamonds,Ace of Clubs,1.65,2.30,2.05,0.85,2 Hearts
+Player 2,Ace of Spades,10 of Spades,Right Bauer of Hearts,Ace of Hearts,King of Hearts,9 of Hearts,Queen of Clubs,Jack of Clubs,1.70,2.55,1.45,2.30,3 Hearts
+Player 3,Jack of Spades,10 of Spades,Queen of Hearts,Right Bauer of Diamonds,Right Bauer of Diamonds,Queen of Diamonds,10 of Diamonds,Ace of Clubs,1.80,1.85,3.20,0.85,3 Diamonds
+Player 4,King of Spades,Queen of Spades,Queen of Spades,King of Diamonds,10 of Diamonds,10 of Clubs,10 of Clubs,9 of Clubs,1.05,0.00,0.70,1.05,1 Clubs
+Player 5,King of Spades,Ace of Hearts,Queen of Hearts,9 of Hearts,9 of Diamonds,Right Bauer of Clubs,King of Clubs,Queen of Clubs,1.35,1.05,0.80,2.20,2 Clubs
+Player 6,Ace of Spades,King of Hearts,10 of Hearts,Ace of Diamonds,Queen of Diamonds,Left Bauer of Clubs,King of Clubs,9 of Clubs,1.85,1.65,1.20,2.15,2 Clubs
+
+player,card1,card2,card3,card4,card5,card6,card7,card8,spades,hearts, diamonds,clubs,best bid
+Player 1,Ace of Spades,King of Spades,Ace of Hearts,King of Hearts,Queen of Hearts,King of Clubs,King of Clubs,10 of Clubs,1.20,1.55,0.95,2.00,2 Clubs
+Player 2,Queen of Spades,Queen of Spades,Left Bauer of Hearts,Queen of Hearts,10 of Hearts,10 of Hearts,Ace of Diamonds,Queen of Diamonds,1.20,2.00,1.70,0.50,2 Hearts
+Player 3,Ace of Hearts,King of Diamonds,Queen of Diamonds,10 of Diamonds,9 of Diamonds,Queen of Clubs,9 of Clubs,9 of Clubs,0.50,0.35,1.85,1.55,2 Diamonds
+Player 4,King of Spades,10 of Spades,10 of Spades,9 of Spades,9 of Hearts,Right Bauer of Diamonds,Left Bauer of Diamonds,9 of Diamonds,1.40,1.85,1.85,0.00,2 Diamonds
+Player 5,Ace of Spades,9 of Spades,Right Bauer of Hearts,King of Hearts,9 of Hearts,Ace of Diamonds,10 of Diamonds,Jack of Clubs,1.70,2.65,1.70,1.95,3 Hearts
+Player 6,King of Diamonds,Right Bauer of Clubs,Left Bauer of Clubs,Left Bauer of Clubs,Ace of Clubs,Ace of Clubs,Queen of Clubs,10 of Clubs,3.40,1.50,1.35,3.40,3 Clubs
+
+player,card1,card2,card3,card4,card5,card6,card7,card8,spades,hearts, diamonds,clubs,best bid
+Player 1,Left Bauer of Spades,10 of Spades,9 of Spades,9 of Spades,Queen of Diamonds,Ace of Clubs,Ace of Clubs,10 of Clubs,2.45,1.00,1.35,2.05,2 Spades
+Player 2,Jack of Spades,Right Bauer of Hearts,Ace of Hearts,King of Hearts,King of Hearts,9 of Diamonds,9 of Diamonds,9 of Clubs,1.50,2.05,1.65,1.35,2 Hearts
+Player 3,Queen of Spades,Right Bauer of Hearts,Queen of Hearts,Queen of Hearts,9 of Hearts,Ace of Diamonds,10 of Diamonds,King of Clubs,0.85,2.50,1.20,0.85,3 Hearts
+Player 4,Jack of Spades,Left Bauer of Hearts,Ace of Hearts,10 of Hearts,10 of Hearts,9 of Hearts,King of Diamonds,9 of Clubs,1.50,1.90,1.80,1.35,2 Hearts
+Player 5,Ace of Spades,King of Spades,Queen of Spades,10 of Spades,Jack of Diamonds,King of Clubs,Queen of Clubs,10 of Clubs,1.40,1.00,1.50,1.50,2 Clubs
+Player 6,Ace of Spades,King of Spades,Ace of Diamonds,King of Diamonds,Queen of Diamonds,10 of Diamonds,Right Bauer of Clubs,Queen of Clubs,1.70,0.95,1.90,2.30,2 Clubs
+
+player,card1,card2,card3,card4,card5,card6,card7,card8,spades,hearts, diamonds,clubs,best bid
+Player 1,Left Bauer of Spades,King of Spades,Queen of Spades,9 of Spades,Ace of Hearts,King of Diamonds,Jack of Diamonds,King of Clubs,2.05,0.85,1.80,1.85,2 Spades
+Player 2,King of Spades,10 of Spades,Ace of Hearts,Queen of Hearts,10 of Hearts,9 of Hearts,Ace of Diamonds,9 of Diamonds,1.70,1.85,1.15,1.00,2 Hearts
+Player 3,King of Hearts,King of Hearts,Queen of Diamonds,10 of Diamonds,10 of Diamonds,Right Bauer of Clubs,Ace of Clubs,10 of Clubs,0.95,1.20,1.55,1.70,2 Clubs
+Player 4,Right Bauer of Spades,Queen of Spades,10 of Spades,Jack of Hearts,9 of Hearts,King of Diamonds,Queen of Clubs,10 of Clubs,1.70,1.35,0.85,1.20,2 Spades
+Player 5,Jack of Spades,Right Bauer of Hearts,Queen of Hearts,10 of Hearts,Ace of Diamonds,Queen of Diamonds,9 of Diamonds,9 of Clubs,1.50,2.15,1.55,1.35,2 Hearts
+Player 6,Ace of Spades,Ace of Spades,9 of Spades,Right Bauer of Diamonds,Ace of Clubs,King of Clubs,Queen of Clubs,9 of Clubs,1.50,2.00,2.50,2.30,3 Diamonds
+
+player,card1,card2,card3,card4,card5,card6,card7,card8,spades,hearts, diamonds,clubs,best bid
+Player 1,10 of Spades,Right Bauer of Hearts,Left Bauer of Hearts,Ace of Hearts,King of Hearts,Queen of Hearts,Ace of Diamonds,Queen of Clubs,1.35,3.00,2.30,1.35,3 Hearts
+Player 2,9 of Spades,10 of Hearts,Ace of Diamonds,9 of Diamonds,Left Bauer of Clubs,10 of Clubs,9 of Clubs,9 of Clubs,1.85,0.80,0.70,2.05,2 Clubs
+Player 3,Ace of Spades,Queen of Spades,10 of Spades,9 of Spades,Queen of Hearts,9 of Hearts,King of Diamonds,Queen of Diamonds,1.40,1.20,1.20,0.45,1 Spades
+Player 4,King of Hearts,Jack of Hearts,10 of Hearts,10 of Diamonds,Right Bauer of Clubs,King of Clubs,King of Clubs,10 of Clubs,0.50,1.70,0.85,2.05,2 Clubs
+Player 5,Ace of Spades,King of Spades,Jack of Spades,9 of Hearts,King of Diamonds,Queen of Diamonds,10 of Diamonds,9 of Diamonds,1.70,0.85,1.90,0.95,2 Diamonds
+Player 6,Left Bauer of Spades,King of Spades,Queen of Spades,Ace of Hearts,Jack of Diamonds,Ace of Clubs,Ace of Clubs,Queen of Clubs,2.60,1.85,2.45,2.55,3 Spades
+
+player,card1,card2,card3,card4,card5,card6,card7,card8,spades,hearts, diamonds,clubs,best bid
+Player 1,Queen of Hearts,King of Diamonds,Jack of Diamonds,10 of Diamonds,Right Bauer of Clubs,Left Bauer of Clubs,Ace of Clubs,10 of Clubs,1.95,1.35,2.20,2.20,2 Clubs
+Player 2,King of Spades,Queen of Spades,10 of Spades,10 of Spades,9 of Spades,9 of Hearts,Queen of Diamonds,9 of Clubs,1.75,0.35,0.35,0.35,2 Spades
+Player 3,Ace of Hearts,King of Hearts,King of Hearts,Ace of Diamonds,9 of Diamonds,9 of Diamonds,Queen of Clubs,9 of Clubs,1.00,1.50,1.50,1.70,2 Clubs
+Player 4,Ace of Spades,9 of Spades,Right Bauer of Hearts,Left Bauer of Hearts,Ace of Hearts,10 of Hearts,Ace of Clubs,Jack of Clubs,2.15,3.20,2.95,2.30,3 Hearts
+Player 5,Queen of Spades,Queen of Hearts,9 of Hearts,King of Diamonds,Left Bauer of Clubs,King of Clubs,King of Clubs,10 of Clubs,1.35,0.70,0.35,1.55,2 Clubs
+Player 6,Ace of Spades,King of Spades,Right Bauer of Hearts,10 of Hearts,Ace of Diamonds,Queen of Diamonds,10 of Diamonds,Queen of Clubs,1.20,2.30,2.05,1.30,2 Hearts
+

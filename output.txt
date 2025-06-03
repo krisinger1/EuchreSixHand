@@ -1,0 +1,14 @@
+card1,card2,card3,card4,card5,card6,card7,card8,spades,hearts,diamonds,clubs
+=============================================
+King of Spades,10 of Spades,9 of Spades,10 of Hearts,10 of Diamonds,Ace of Clubs,Queen of Clubs,10 of Clubs,0.75,0.75,0.75,0.0
+=============================================
+Ace of Spades,Ace of Spades,10 of Spades,Queen of Hearts,Ace of Diamonds,King of Diamonds,Ace of Clubs,10 of Clubs,1.5,3.0,2.25,2.25
+=============================================
+King of Hearts,Queen of Hearts,10 of Hearts,Ace of Diamonds,Jack of Diamonds,Jack of Clubs,Jack of Spades,King of Clubs,2.75,1.75,1.0,2.5
+=============================================
+Queen of Spades,Ace of Hearts,Ace of Hearts,Queen of Diamonds,Jack of Diamonds,Jack of Spades,King of Clubs,9 of Clubs,2.75,1.0,2.5,2.5
+=============================================
+Queen of Spades,King of Hearts,King of Diamonds,Queen of Diamonds,10 of Diamonds,9 of Diamonds,Jack of Clubs,Queen of Clubs,0.75,0.0,0.25,1.0
+=============================================
+King of Spades,9 of Spades,Jack of Hearts,Jack of Hearts,9 of Hearts,9 of Hearts,9 of Diamonds,9 of Clubs,0.0,2.75,2.0,0.0
+=============================================
